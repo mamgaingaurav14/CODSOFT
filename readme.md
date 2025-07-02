@@ -7,13 +7,13 @@ This repository includes 3 complete machine learning pipelines built using Pytho
 
 ## 📂 Projects Included
 
-### 1. [Spam SMS Detection](./SPAM-SMS-DETECTION)
+### 1. [Spam SMS Detection](./SPAM SMS DETECTION)
 A binary classification task to predict whether a message is spam or ham (not spam) using text preprocessing and **Naive Bayes**.
 
-### 2. [Movie Genre Classification](./MOVIE-GENRE-CLASSIFICATION)
+### 2. [Movie Genre Classification](./MOVIE GENRE CLASSIFICATION)
 Predicts movie genre based on its plot using **TF-IDF Vectorizer** and **Logistic Regression**.
 
-### 3. [Customer Churn Prediction](./CUSTOMER-CHURN-PREDICTION)
+### 3. [Customer Churn Prediction](./CUSTOMER CHURN PREDICTION)
 Predicts whether a customer will leave a service using tabular customer data and **Logistic Regression**.
 
 ---
